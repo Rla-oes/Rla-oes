@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&text=Minseo&fontColor=ffffff&fontSize=90&height=200&desc=Senior+copy-paster+📋&descSize=20&descAlign=60&animation=twinkling" alt="header" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Senior%20copy-paster%20%F0%9F%93%8B)
 
 ## ✨ Tech Stack ✨
 
