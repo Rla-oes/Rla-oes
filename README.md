@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=7e57c2,b388eb&height=300&section=7e57c2,b388eb&text=Senior%20copy-paster%20%F0%9F%93%8B&fontColor=000000&stroke=b388eb&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=soft&color=7e57c2,b388eb&height=300&text=Senior%20copy-paster%20%F0%9F%93%8B&fontColor=ffffff&animation=twinkling)
+
 
 ## ✨ Tech Stack ✨
 
