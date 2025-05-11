@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Senior%20copy-paster%20%F0%9F%93%8B&fontSize=60)
 
-
+<br/><br/>
 ## ✨ Tech Stack ✨
 
 <div align="center">
