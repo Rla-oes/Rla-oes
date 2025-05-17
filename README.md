@@ -72,5 +72,13 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ## ⏰ Commit activity by time
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rla-oes&theme=react-dark" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rla-oes&theme=rogue" alt="activity graph" />
+</p>
+
+<br/><br/>
+
+## 🌅 Most active by time of day
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Rla-oes?template=classic&base=activity&config_timezone=Asia%2FSeoul" alt="Commit timing stats" />
 </p>
