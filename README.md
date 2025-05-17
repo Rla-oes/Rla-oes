@@ -69,4 +69,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ## ⏰ Commit activity by time
 
-[![Ashutosh's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rla-oes&theme=Default)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rla-oes&theme=rogue" alt="activity graph" />
+</p>
