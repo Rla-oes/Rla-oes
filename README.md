@@ -79,4 +79,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 🌅 Most active by time of day
 
-<img src="https://metrics.lecoq.io/Rla-oes?template=classic&base=activity&config_timezone=Asia%2FSeoul" />
+<p align="center">
+  <img src="https://metrics.lecoq.io/Rla-oes?template=classic&base=activity&config_timezone=Asia%2FSeoul" />
+</p>
