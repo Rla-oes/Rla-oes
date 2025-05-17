@@ -67,4 +67,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-[🖥️ See full dashboard →](https://wakatime.com/@563cb8b8-82a8-4af6-942f-8b49d4276f66)
+## ⏰ Commit activity by time
+
+[![Ashutosh's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rla-oes&theme=Default)](https://github.com/ashutosh00710/github-readme-activity-graph)
