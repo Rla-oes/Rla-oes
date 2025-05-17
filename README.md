@@ -79,6 +79,4 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ## 🌅 Most active by time of day
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/Rla-oes?template=classic&base=activity&config_timezone=Asia%2FSeoul" alt="Commit timing stats" />
-</p>
+<img src="https://metrics.lecoq.io/Rla-oes?template=classic&base=activity&config_timezone=Asia%2FSeoul" />
