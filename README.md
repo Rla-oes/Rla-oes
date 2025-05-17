@@ -66,3 +66,5 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+[🖥️ See full dashboard →](https://wakatime.com/@563cb8b8-82a8-4af6-942f-8b49d4276f66)
