@@ -66,11 +66,11 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+</div>
 <br/><br/>
 
 ## ⏰ Commit activity by time
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rla-oes&theme=rogue" alt="activity graph" />
-</p>
+</div>
