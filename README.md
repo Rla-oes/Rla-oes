@@ -74,11 +74,3 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rla-oes&theme=rogue" alt="activity graph" />
 </p>
-
-<br/><br/>
-
-## 🌅 Most active by time of day
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Rla-oes?template=classic&base=activity&config_timezone=Asia%2FSeoul" />
-</p>
