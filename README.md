@@ -54,15 +54,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 May 2025 - To: 17 May 2025
+From: 11 May 2025 - To: 18 May 2025
 
-Total Time: 4 hrs 47 mins
+Total Time: 8 hrs 11 mins
 
-Python       3 hrs 45 mins   ███████████████████▓░░░░░   78.41 %
-CSV          32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
-C++          27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Python            4 hrs 30 mins   █████████████▓░░░░░░░░░░░   55.03 %
+Java              1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
+C++               57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+CSV               48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+Text              11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
