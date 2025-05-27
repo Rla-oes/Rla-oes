@@ -54,13 +54,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 May 2025 - To: 25 May 2025
+From: 19 May 2025 - To: 26 May 2025
 
-Total Time: 6 hrs 6 mins
+Total Time: 5 hrs 34 mins
 
-C++            4 hrs 22 mins   ██████████████████░░░░░░░   71.58 %
-Python         1 hr            ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
-Java           43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+C++            3 hrs 58 mins   ██████████████████░░░░░░░   71.50 %
+Python         51 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
+Java           43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
 Properties     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Gradle         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
