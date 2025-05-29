@@ -54,14 +54,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2025 - To: 27 May 2025
+From: 21 May 2025 - To: 28 May 2025
 
-Total Time: 5 hrs 49 mins
+Total Time: 6 hrs 37 mins
 
-C++            3 hrs 58 mins   █████████████████░░░░░░░░   68.33 %
-Python         1 hr 6 mins     ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
-Java           43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
-JavaScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+C++            3 hrs 58 mins   ███████████████░░░░░░░░░░   60.08 %
+Python         1 hr 54 mins    ███████▒░░░░░░░░░░░░░░░░░   28.81 %
+Java           43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+JavaScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
