@@ -54,12 +54,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2025 - To: 05 June 2025
+From: 30 May 2025 - To: 06 June 2025
 
-Total Time: 8 hrs 31 mins
+Total Time: 8 hrs 25 mins
 
-C++      6 hrs 28 mins   ███████████████████░░░░░░   75.87 %
-Python   2 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   24.13 %
+C++      6 hrs 28 mins   ███████████████████▒░░░░░   76.85 %
+Python   1 hr 57 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.15 %
 ```
 
 <!--END_SECTION:waka-->
