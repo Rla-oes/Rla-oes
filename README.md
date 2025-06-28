@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey there!👋🏻
+# Hey there! I'm Minseo Kim (Reina)👋🏻
 Check out my technical blog 👉🏻 [reina-log.vercel.app](https://reina-log.vercel.app)
 <br/><br/>
 
