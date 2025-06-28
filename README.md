@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hey there!👋🏻
+Check out my technical blog 👉🏻 [reina-log.vercel.app](https://reina-log.vercel.app)
+<br/><br/>
 
 ## ✨ Tech Stack ✨
 
