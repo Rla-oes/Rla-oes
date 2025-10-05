@@ -57,11 +57,13 @@ Check out my technical blog 👉🏻 [reina-log.vercel.app](https://reina-log.ve
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 September 2025 - To: 03 October 2025
+From: 28 September 2025 - To: 05 October 2025
 
-Total Time: 0 secs
+Total Time: 2 hrs 9 mins
 
-No activity tracked
+Python       2 hrs 4 mins    ████████████████████████░   96.48 %
+C++          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
