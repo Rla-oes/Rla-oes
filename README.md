@@ -57,13 +57,12 @@ Check out my technical blog 👉🏻 [reina-log.vercel.app](https://reina-log.ve
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2026 - To: 12 May 2026
+From: 07 May 2026 - To: 14 May 2026
 
-Total Time: 19 mins
+Total Time: 54 mins
 
-Python     18 mins               ████████████████████████▒   97.81 %
-Markdown   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Python   50 mins               ███████████████████████░░   91.68 %
+JSON     4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
 ```
 
 <!--END_SECTION:waka-->
