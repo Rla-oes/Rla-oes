@@ -48,15 +48,15 @@ Check out my technical blog 👉🏻 [reina-log.vercel.app](https://reina-log.ve
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2026 - To: 16 June 2026
+From: 11 June 2026 - To: 18 June 2026
 
-Total Time: 4 hrs 52 mins
+Total Time: 4 hrs 48 mins
 
-Python       3 hrs 37 mins         ██████████████████▒░░░░░░   73.79 %
-Java         22 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-JSON         15 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Bash         11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Markdown     11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Python       3 hrs 32 mins         ██████████████████▒░░░░░░   73.09 %
+Java         22 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+JSON         15 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Bash         11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Markdown     11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 ```
 
 <!--END_SECTION:waka-->
