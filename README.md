@@ -48,15 +48,15 @@ Check out my technical blog 👉🏻 [reina-log.vercel.app](https://reina-log.ve
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2026 - To: 05 September 2026
+From: 31 August 2026 - To: 07 September 2026
 
-Total Time: 12 mins
+Total Time: 43 mins
 
-Git Config   4 mins                ████████░░░░░░░░░░░░░░░░░   32.10 %
-JSON         3 mins                ███████▒░░░░░░░░░░░░░░░░░   28.89 %
-Text         3 mins                ███████░░░░░░░░░░░░░░░░░░   28.52 %
-Markdown     1 min                 ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-Other        0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Python       25 mins               █████████████▓░░░░░░░░░░░   55.27 %
+Git Config   9 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
+Text         8 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.18 %
+Other        1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
