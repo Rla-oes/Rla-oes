@@ -62,8 +62,13 @@ Markdown   0 secs                ▒░░░░░░░░░░░░░░�
 </div>
 <br/><br/>
 
+
 ## ⏰ Commit activity by time
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rla-oes&theme=rogue" alt="activity graph" />
+  <img
+    src="https://raw.githubusercontent.com/Rla-oes/Rla-oes/output/activity-graph.svg"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
 </div>
