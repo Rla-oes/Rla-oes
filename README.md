@@ -48,7 +48,7 @@ Check out my technical blog 👉🏻 [reina-log.vercel.app](https://reina-log.ve
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2026 - To: 17 November 2026
+From: 11 November 2026 - To: 18 November 2026
 
 Total Time: 38 mins
 
